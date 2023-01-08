@@ -1,0 +1,344 @@
+/* header_wrap */
+.h1_logo{
+    margin:0;
+    padding:0;
+}
+.h1_logo img{
+    width:82.09px;
+    height:36px;
+    position: relative;
+    top: 30px;
+    left: 55px;
+}
+.menus{
+    position: relative;
+    top: -20px;
+    overflow: hidden;
+}
+.menus ul{
+    list-style:none;
+    position: relative;
+    top: -3px;
+}
+.menus ul li{
+    display: inline-block;
+    margin: 20px;
+    position: relative;
+    top: 0;
+    left: 295px;
+}
+.menus ul li a{
+    text-decoration: none;
+    color:#010101;
+    font-weight:bold;
+    font-size:18px;
+}
+.menus li a::before{
+    content:"";
+    height:3px;
+    width:0;
+    background-color:#dd3156;
+    border-radius:10px;
+    transition:0.3s;
+    position:absolute;
+    bottom:-15px;
+    left:0;
+  }
+.menus li a:hover::before{
+    width:100%;
+}
+
+.utility ul{
+    list-style:none;
+}
+.utility ul li{
+    display:inline-block;
+    margin:20px;
+}
+.utility ul li img{
+    height:20px;
+    position: relative;
+    top: -84px;
+    left: 1130px;
+}
+
+/* banner_wrap */
+.main_image{
+    margin:0 auto;
+}
+.main_image img{
+    width: 100%;
+    height:864px;
+}
+
+/* content_wrap */
+.con1{
+    width:100%;
+    height:834px;
+}
+.con1_textbox{
+    width: 1353px;
+    height:110px;
+    margin:auto;
+    position:relative;
+    top:130px;
+}
+.con1_imagebox{
+    margin:auto;
+    position:relative;
+    top:188px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.con1_textbox h2{
+    color:#dd3156;
+    font-size:40px;
+    padding-top:5px;
+}
+.con1_textbox p{
+    color:#999999;
+    font-size:18px;
+    padding-top:25px;
+}
+.con1_itembox{
+    width:668px;
+    height:376px;
+    background-color:#c4c4c4;
+    position: relative;
+    left: 0;
+    background-image: url(../images/lg-foundation-00.jpg);
+    background-position:center;
+    background-size: 667px;
+    background-repeat: no-repeat;
+}
+.con1_itembox:nth-child(2){
+    background-image: url(../images/height5.jpg);
+}
+.con2{
+    width:100%;
+    height:850px;
+    background-color:#ffffff;
+}
+.con2_textbox{
+    width: 1353px;
+    height:110px;
+    margin:auto;
+    position:relative;
+    top:130px;
+}
+.con2_textbox h2{
+    color:#dd3156;
+    font-size:40px;
+    padding-top:5px;
+}
+.con2_imagebox{
+    margin:auto;
+    position:relative;
+    top:188px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.con2_itembox2{
+    width:317px;
+    height:315px;
+    background-color:#c4c4c4;
+    background-image: url(../images/20230103_171256538_02-900x900.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:100%;
+}
+.con2_itembox2:nth-child(2){
+    background-image:url(../images/lga-1-01-1.jpg);
+    background-size:557px;
+}
+.con2_itembox2:nth-child(3){
+    background-image:url(../images/lga-1-01-2.jpg);
+    background-size:500px;
+}
+.con2_itembox2:nth-child(4){
+    background-image:url(../images/lga-1-01-3.jpg);
+    background-size:580px;
+}
+.con2_imagetextbox{
+    width:1353px;
+    height:100px;
+    display:flex;
+    justify-content: space-between;
+    position:relative;
+    top: 215px;
+    left: 24px;
+}
+.con2_imgtextitembox{
+    width:319px;
+    height:98.16px;
+}
+.con2_imagetextbox .con2_imgtextitembox a{
+    text-decoration:none;
+    color:#101010;
+    font-size:19px;
+    font-family: "LGSmHaSB.ttf" sans-serif;
+}
+.con2_imagetextbox .con2_imgtextitembox h3{
+    position:relative;
+    top:-11px;
+}
+.con2_imagetextbox .con2_imgtextitembox p{
+    position:relative;
+    top:16px;
+}
+.con2_imagetextbox .con2_imgtextitembox p .redcolor{
+    color:#dd3156;
+}
+
+.con3{
+    width:100%;
+    height:737px;
+    background-color: #f0f4f6;
+}
+.con3_imgtextbox2{
+    width:1353px;
+    height:100px;
+    display:flex;
+    justify-content: space-between;
+    position:relative;
+    top: 215px;
+    left: 24px;
+}
+.con3_imgtextbox2 h2{
+    color:#dd3156;
+    font-size:40px;
+    padding-top:5px;
+}
+.con3_titletextbox{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 260px;
+}
+.con3_titletextbox .con3_titletextflex{
+    width:436px;
+    height:224px;
+}
+.con3_titletextbox .con3_titletextflex h3{
+    font-size: 19px;
+    color:#010101;
+    position: relative;
+    top: 30px;
+}
+.con3_titletextbox .con3_titletextflex p{
+    font-size: 16px;
+    position: relative;
+    color:#999999;
+    top: 35px;
+    padding-top: 25px;
+}
+.con3_titletextbox .con3_titletextflex p .black{
+    font-size:14px;
+    color: #676767;
+}
+.con3_titletextbox .con3_titletextflex p .red{
+    font-size:14px;
+    color:#dd3156;
+}
+
+.ad{
+    width:100%;
+    height:186px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.ad_box{
+    width:180px;
+    height:45px;
+    background-image: url(../images/lg_art.svg);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: 97.2px;
+}
+.ad_box:nth-child(2){
+    background-image: url(../images/logo2.png);
+    background-size:182px;
+}
+.ad_box:nth-child(3){
+    background-image: url(../images/lg_library.svg);
+    background-size:176px;
+}
+.ad_box:nth-child(4){
+    background-image: url(../images/logo4.png);
+    background-size:113px;
+}
+.ad_box:nth-child(5){
+    background-image: url(../images/logo5.png);
+    background-size:133px;
+}
+.ad_box:nth-child(6){
+    background-image: url(../images/logo6.png);
+    background-size:174px;
+}
+.footer_textbox{
+    width:1200px;
+    height:100px;
+}
+.footer_text1{
+    width:500px;
+    height:50px;
+    position: relative;
+    top: 75px;
+    left: 50px;
+}
+.footer_text1 ul{
+    list-style:none;
+    display: flex;
+    padding-top: 16px;
+}
+.footer_text1 ul li a{
+    text-decoration:none;
+    color:#fff;
+    padding-left:20px;
+}
+.footer_text2{
+    width:500px;
+    height:120px;
+    position: relative;
+    top: 90px;
+    left: 50px;
+}
+.footer_text2 p{
+    color:#fff;
+    padding-left: 20px;
+    padding-top: 12px;
+    line-height: 2;
+}
+.footer_text3{
+    width:500px;
+    height:40px;
+    position: relative;
+    top: 113px;
+    left: 50px;
+}
+.footer_text3 p{
+    color:#fff;
+    padding-left:20px;
+    padding-top:10px;
+}
+.sns_icons{
+    width:100px;
+    height:30px;
+    display:flex;
+}
+.sns_icons img{
+    width:46px;
+    height:46px;
+    position:relative;
+    left: 1255px;
+    top:-50px;
+}
+.footer_link img{
+    width:86.88px;
+    height:34px;
+    position:relative;
+    top: -27px;
+    left: 1242px;
+}

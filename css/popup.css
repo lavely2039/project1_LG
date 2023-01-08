@@ -1,0 +1,31 @@
+#layer{
+    display: block;
+    position: fixed;
+    width: 1000px;
+    height: 230px;
+    background: hwb(0 93% 7% / 0.4);
+    box-shadow: 3px 3px 10px rgb(0 0 0 / 40%);
+    z-index: 999999999;
+    font-size: 1.8em;
+    padding: 3%;
+    box-sizing: border-box;
+    line-height: 1.8;
+    top: 129px;
+    left: 474px;
+}
+#layer p{
+    margin-top: 38px;
+    position: relative;
+    left: 54px;
+    top: -9px;
+}
+#layer button{
+    position: absolute;
+    cursor: pointer;
+    padding: 15px 48px;
+    right: 0;
+    top: 0;
+    background-color: #222;
+    color: #fff;
+    font-size: 22px;
+}
