@@ -343,7 +343,13 @@
 }
 .footer_wrap .html_icon img{
     position: relative;
-    top: 162px;
-    left: 1244px;
+    top: 180px;
+    left: 1227px;
+    width:50px;
+}
+.footer_wrap .css_icon img{
+    position: relative;
+    top: 160px;
+    left: 1287px;
     width:50px;
 }
