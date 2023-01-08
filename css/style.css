@@ -344,12 +344,18 @@
 .footer_wrap .html_icon img{
     position: relative;
     top: 180px;
-    left: 1227px;
+    left: 1165px;
     width:50px;
 }
 .footer_wrap .css_icon img{
     position: relative;
     top: 160px;
-    left: 1287px;
+    left: 1226px;
     width:50px;
+}
+.footer_wrap .web_icon img{
+    position: relative;
+    top: 133px;
+    left: 1286px;
+    width: 50px;
 }
