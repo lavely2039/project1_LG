@@ -177,7 +177,6 @@
     text-decoration:none;
     color:#101010;
     font-size:19px;
-    font-family: "LGSmHaSB.ttf" sans-serif;
 }
 .con2_imagetextbox .con2_imgtextitembox h3{
     position:relative;
@@ -341,4 +340,10 @@
     position:relative;
     top: -27px;
     left: 1242px;
+}
+.footer_wrap .html_icon img{
+    position: relative;
+    top: 162px;
+    left: 1244px;
+    width:50px;
 }
