@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Name
 > 프로젝트에 대한 요약설명
 > 구현화면보기 [_here_](https://qwerewqwerew.github.io/book01/)
@@ -85,3 +86,6 @@ Created by [@mango](lavely2039@gmail.com) - 언제든지 연락주세요!
 <!-- This project is open source and available under the [... License](). -->
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
+=======
+[프로젝트1](https://file:///E:/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81.pdf)
+>>>>>>> 8abe2e98870c3698d3afc23e52fe23b7520f9e14
