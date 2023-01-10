@@ -10,44 +10,47 @@
     top: 30px;
     left: 55px;
 }
-.menus{
-    position: relative;
-    top: -20px;
-    overflow: hidden;
-}
-.menus ul{
+ul.menus{
     list-style:none;
+    top: -20px;
+    left: 350px;
     position: relative;
-    top: -3px;
-}
-.menus ul li{
-    display: inline-block;
-    margin: 20px;
-    position: relative;
-    top: 0;
-    left: 295px;
-}
-.menus ul li a{
-    text-decoration: none;
-    color:#010101;
-    font-weight:bold;
-    font-size:18px;
-}
-.menus li a::before{
-    content:"";
-    height:3px;
-    width:0;
-    background-color:#dd3156;
-    border-radius:10px;
-    transition:0.3s;
-    position:absolute;
-    bottom:-15px;
-    left:0;
   }
-.menus li a:hover::before{
-    width:100%;
+ul.menus li{
+    display:inline-block;
+    position:relative;
+}
+ul.menus li a{
+    display: block;
+    padding:20px;
+    color:#101010;
+    text-decoration:none;
+    text-align:left;
+    font-size:16px;
+    font-weight:600;
+}
+ul.menus li ul.dropdown li{
+    display: block;
+}
+ul.menus li ul.dropdown{
+    width:170%;
+    background:#dd3146;
+    position:absolute;
+    display:none;
+}
+ul.menus li a:hover{
+    background:#dd3146;
+    color:#fff;
+}
+ul.menus li:hover ul.dropdown{
+    display:block;
 }
 
+.utility .utilicons{
+    position:relative;
+    top: 4px;
+    left: 53px;
+}
 .utility ul{
     list-style:none;
 }
@@ -281,11 +284,11 @@
     height:100px;
 }
 .footer_text1{
-    width:500px;
+    width:608px;
     height:50px;
     position: relative;
-    top: 75px;
-    left: 50px;
+    top: 58px;
+    left: 60px;
 }
 .footer_text1 ul{
     list-style:none;
@@ -293,9 +296,12 @@
     padding-top: 16px;
 }
 .footer_text1 ul li a{
-    text-decoration:none;
-    color:#fff;
-    padding-left:20px;
+    text-decoration: none;
+    color: #fff;
+    padding-left: 18px;
+    position: relative;
+    top: 27px;
+    left: -9px;
 }
 .footer_text2{
     width:500px;
