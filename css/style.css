@@ -94,17 +94,6 @@ ul.menus li:hover ul.dropdown{
    background-repeat: no-repeat;
    background-position:center;
  }
- .slide-next{
-   position:absolute;
-   top: 45%;
-   right: 80px;
-   margin:auto;
- }
- .slide-prev{
-   position: absolute;
-   top: 45%;
-   left: 80px;
- }
 
 /* content_wrap */
 .con1{
