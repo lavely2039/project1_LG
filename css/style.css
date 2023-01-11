@@ -26,25 +26,11 @@ ul.menus li a{
     color:#101010;
     text-decoration:none;
     text-align:left;
-    font-size:16px;
+    font-size:18px;
     font-weight:600;
 }
-ul.menus li ul.dropdown li{
-    display: block;
-}
-ul.menus li ul.dropdown{
-    width:170%;
-    background:#dd3146;
-    position:absolute;
-    display:none;
-}
-ul.menus li a:hover{
-    background:#dd3146;
-    color:#fff;
-}
-ul.menus li:hover ul.dropdown{
-    display:block;
-}
+
+
 
 .utility .utilicons{
     position:relative;
