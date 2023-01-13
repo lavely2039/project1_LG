@@ -43,10 +43,7 @@ folder1/
 ```
 
 ## Features
-- 구현기능 1:
-- 구현기능 2:
-- 구현기능 3:
-- 구현기능 4:
+- 구현기능 1: 레이아웃을 파악해서 100% 반영해주었습니다.
 
 
 ## Screenshots
@@ -55,24 +52,24 @@ folder1/
 
 
 ## Project Status
-프로젝트의 진행상태: 진행중 / 진행완료/ 
+프로젝트의 진행상태: 진행완료 
 
 
 ## Room for Improvement
 개선사항
 
 개선사항
-- 공지사항 슬라이드 애니메이션 떨림
-- 푸터 패밀리사이트 select 오류
+- header 영역 menus 레이아웃 파악해서 코드 다시 작성
+- 푸터 html 유효성 검사, css 유효성 검사, 웹 접근성 마크 이미지 위치, 크기 조절
 
 To do:
-- 추가할 기능1
-- 추가할 기능2
+- 제가 100% 이해한 내용만 반영해서 작업했습니다.
+- 다음 프로젝트에서는 미디어쿼리를 사용해서 반응형 홈페이지 작업 해보겠습니다.
 
 
 ## Acknowledgements
 Give credit here.
-- 메인 포트폴리오주소 [this tutorial](https://www.example.com).
+- 메인 포트폴리오주소 [this tutorial](https://github.com/lavely2039).
 - 방문해주셔서 감사합니다....
 
 
