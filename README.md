@@ -69,7 +69,7 @@ To do:
 
 ## Acknowledgements
 Give credit here.
-- 메인 포트폴리오주소 [this tutorial](https://github.com/lavely2039).
+- 메인 포트폴리오주소 [https://github.com/lavely2039](https://github.com/lavely2039).
 - 방문해주셔서 감사합니다....
 
 
