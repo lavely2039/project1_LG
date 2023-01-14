@@ -1,6 +1,6 @@
 # Project Name
 > 프로젝트에 대한 요약설명
-> 구현화면보기 [_here_](https://lavely2039.github.io/project1_LG/)
+> 구현화면보기 [Project1_ LG재단 홈페이지](https://lavely2039.github.io/project1_LG/)
 
 
 ## 목차
