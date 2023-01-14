@@ -42,7 +42,7 @@ nav ul li a{
 }
 .slide-container{
     width:100vw;
-    height:864px;
+    height:828px;
     background-image:url(../images/main-visual1.jpg);
     background-repeat: no-repeat;
     background-position:center;
@@ -52,16 +52,16 @@ nav ul li a{
     font-size: 54px;
     text-align: center;
     position: relative;
-    top: 422px;
-    left: -405px;
+    top: 381px;
+    left: -449px;
 }
 .slide-container p{
     color: #fff;
     font-size: 16px;
     text-align: center;
     position: absolute;
-    top: 545px;
-    left: 162px;
+    top: 493px;
+    left: 179px;
 }
 .arrow_icons_left{
     position: relative;
@@ -70,7 +70,7 @@ nav ul li a{
 }
 .arrow_icons_right{
     position: relative;
-    left: 1400px;
+    left: 1514px;
     top: -576px;
 }
 /* content_wrap */
