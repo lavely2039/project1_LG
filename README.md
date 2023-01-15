@@ -63,6 +63,11 @@ folder1/
 To do:
 - 제가 100% 이해한 내용만 반영해서 작업했습니다.
 
+- 디자인 전공자로써 웹 디자이너로 다시 도전하는 과정에서
+  현업에서 웹 디자이너로 살아남으려면 디자인 지식도 중요하지만
+  프론트엔드 개발자와 싸우지 않고 원활하게 소통하기 위해서
+  웹 디자이너도 코딩 지식을 알고 있으면 좋겠다는 판단.
+
 ## Acknowledgements
 Give credit here.
 - 메인 포트폴리오주소 [https://github.com/lavely2039](https://github.com/lavely2039).
