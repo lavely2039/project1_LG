@@ -72,6 +72,9 @@ To do:
 
 - 웹 디자인은 심미적인 고민도 해야 하지만 어떻게 해야 사용자가 더 편리할지 고민 필요
 
+- 나는 말로 설명하는 것을 어려워하니까 디자인 지식을 공부해서 내가 알고 있는 내용을
+  사람들에게 말로 설명할 수 있도록 노력한다.
+
 ## Acknowledgements
 Give credit here.
 - 메인 포트폴리오주소 [https://github.com/lavely2039](https://github.com/lavely2039).
