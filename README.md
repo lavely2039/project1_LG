@@ -61,7 +61,7 @@ folder1/
 - 푸터 html 유효성 검사, css 유효성 검사, 웹 접근성 마크 이미지 위치, 크기 조절
 
 To do:
-- 진행 중
+- 제가 해볼 수 있는 만큼 코딩 해보겠습니다.
 
 ## Acknowledgements
 Give credit here.
